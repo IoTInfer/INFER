@@ -1,9 +1,11 @@
 # INFER 
 #### A network device identity fingerprinting algorithm
 
+
+## To run
+
 ```
-cd existing_repo
-git remote add origin https://gitlab.com/khhen2/identity-matrix.git
-git branch -M main
-git push -uf origin main
+sudo chmod +x identify.sh
+sudo ./identify.sh
 ```
+
